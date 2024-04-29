@@ -1,5 +1,7 @@
 # Honeycomb Beeline for Go
 
+## Hi from @gronke 👋
+
 [![OSS Lifecycle](https://img.shields.io/osslifecycle/honeycombio/beeline-go)](https://github.com/honeycombio/home/blob/main/honeycomb-oss-lifecycle-and-practices.md)
 [![CircleCI](https://circleci.com/gh/honeycombio/beeline-go.svg?style=shield)](https://circleci.com/gh/honeycombio/beeline-go)
 [![GoDoc](https://godoc.org/github.com/honeycombio/beeline-go?status.svg)](https://godoc.org/github.com/honeycombio/beeline-go)
